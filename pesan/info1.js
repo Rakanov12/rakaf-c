@@ -12,14 +12,14 @@ return`
 *│▸* Voice : Nina kawai
 *│*
 *│▸* SCRIPT BY
-*│*   Decode Denpa
+*│*   Kyra Amelia Youriko
 *│*   X-Dev Team
 *│*   Yogi PW
 *│*   Hexagon
 *│*   Dttaz
 *│*
 *│▸* FEATURE  BY  
-*│*   Decode Denpa
+*│*   Kyra Amelia Youriko
 *│*   Fernazer
 *│*   X-Dev Team
 *│*   Resta Gamteng
