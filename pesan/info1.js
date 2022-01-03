@@ -13,7 +13,7 @@ return`
 *│*
 *│▸* SCRIPT BY
 *│*   Kyra Amelia Youriko
-*│*   X-Dev Team
+*│*   Sanzy YT
 *│*   Yogi PW
 *│*   Hexagon
 *│*   Dttaz
@@ -21,7 +21,7 @@ return`
 *│▸* FEATURE  BY  
 *│*   Kyra Amelia Youriko
 *│*   Fernazer
-*│*   X-Dev Team
+*│*   Sanzy YT
 *│*   Resta Gamteng
 *│*   Zeeone Ofc
 *│*   X-Dev Team
