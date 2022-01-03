@@ -464,8 +464,8 @@ ${week}, ${calender}
 
 *╭─❲ THANKS TO ❳*
 *│*
-*│* • Dittaz
-*│* • Nina Kawai
+*│* • Kyra Amelia Youriko
+*│* • Sanzy YT
 *│* • Resta Gamteng :v
 *│* • Zeeone Ofc
 *│* • Yudha Perdana
